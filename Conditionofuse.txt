@@ -1,0 +1,4 @@
+It  works on Min-Max Algorithm 
+It run in python oriented IDE  like pycharm
+It's  neither optimistic nor pessimistic
+=======  PLAY  AND   ENJOY  =======
